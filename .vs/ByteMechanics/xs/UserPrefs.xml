@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{1FC248F9-DE72-4E78-A986-880902549A2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ByteMechanics.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ByteMechanics.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ByteMechanics.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ByteMechanics FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
